@@ -1,0 +1,106 @@
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    font-size: 3vh;}
+
+li {list-style-type: none;
+    margin: 0 2vw}
+
+li a {
+        text-decoration: none;
+        display: block;
+        width: 100%;
+        color: whitesmoke;
+        font-family: monospace;
+        font-size: 20px;}
+   
+nav {
+    width: auto;
+    background-color: grey;}
+
+a:hover{
+    background-color: darkslategray;}
+
+body    {
+    background-color: linen;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    text-align: justify;
+    padding: 25px;
+    margin: 25px;}
+
+h1 {
+    background-color: linen;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    border: 10px black;
+    border-style: solid;
+    text-align: center;
+    padding: 5px;
+    margin: 50px;}
+
+h2  {
+    background-color: linen;
+    color: darkslategray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    text-decoration: underline;
+    text-align: center;
+    padding: 31px;
+    margin: 31px;}
+
+h3  {
+    background-color: linen;
+    color: darkslategray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    text-decoration: underline;
+    text-align: center;
+    padding: 31px;
+    margin:31px;}
+
+h4  {
+    background-color: linen;
+    color: darkslategray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    text-decoration: underline;
+    text-align: center;
+    padding: 31px;
+    margin: 31px;}
+
+#fleuron {
+    list-style-type: square;
+    color: lightgray;
+    font-size: 50px;
+    padding: 15px;
+    text-align: center;
+}
+
+div2 {
+    width: auto;
+    text-align: center;}
+
+p1   {
+    background-color: linen;
+    color: black;
+    text-align: center;}
+
+img.align-center {
+    display: block;
+    margin: 0px auto;
+    border: solid thick;
+    height: 500px;
+    width: auto;
+}
+
+footer  {
+    background-color: linen;
+    color: slategray;
+    text-align: center;}
